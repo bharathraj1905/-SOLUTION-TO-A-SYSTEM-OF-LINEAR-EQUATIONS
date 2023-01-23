@@ -15,6 +15,9 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```py
+# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# Developed by: B.Barathraj
+# Reference number: 22008848
 import numpy as np
 a=np.array([[1,3],[2,5]])
 b=np.array([5,-3])
